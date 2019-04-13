@@ -1,4 +1,5 @@
 .vscode/
+.ipynb
 .ipynb_checkpoints/
 **/data/**
 !**/data/.gitignore
